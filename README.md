@@ -1,2 +1,2 @@
-# pythong-1
+# python-1
 max_min
