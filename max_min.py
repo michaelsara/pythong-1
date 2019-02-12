@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 #coding=utf-8
 def max_min(the_list):
     for i in the_list:
